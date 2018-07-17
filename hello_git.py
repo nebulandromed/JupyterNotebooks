@@ -1,5 +1,5 @@
 def greet(word):
     greeting_word = 'Hello ' + word + '!!!'
-    print(shout_word)
+    print(greeting_word)
 
 greet('GitHub')
